@@ -2,6 +2,10 @@
 title: "Lesson"
 ---
 
+#### Estimated Time 
+
+##### 30 minutes
+
 ## Overview
 
 \[Replace this text with a paragraph explaining what will be learned in this lesson\]
@@ -27,6 +31,10 @@ title: "Lesson"
 \[Wrap-up by restating what should have been learned in this lesson. Then tease other lessons.
 
 example: You should now have your own github profile and should be equipped to help others make one as well. In the next lesson you will learn how to add a profile page to your profile that shows others what make you unique and what particular skills you have.\]
+
+## Additional Resources
+
+\[Paste links to additional resources that relate to the lesson here such as YouTube tutorials or online textbooks\]
 
 ## FAQ
 
